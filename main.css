@@ -6,30 +6,48 @@ h1 {
 
   h2 {
     color:black;
-    font-size: 35px;
+    font-size: 28px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
   h3 {
     color:black;
-    font-size: 45px;
+    font-size: 28px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
   p1 {
     color:black;
-    font-size: 25px;
+    font-size: 18px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
   p2 {
     color:black;
-    font-size: 25px;
+    font-size: 18px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
   p3 {
     color:black;
-    font-size: 25px;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p4 {
+    color:black;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p5 {
+    color:black;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p6 {
+    color:black;
+    font-size: 18px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
